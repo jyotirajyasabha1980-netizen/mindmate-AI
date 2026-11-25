@@ -1,6 +1,7 @@
-streamlit
+streamlit>=1.41
 transformers>=4.40,<5
 torch
 librosa
 soundfile
 accelerate
+numpy
